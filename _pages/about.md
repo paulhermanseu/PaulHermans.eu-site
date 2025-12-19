@@ -1,8 +1,12 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about-me/
+title: "About me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I’m Paul Hermans — a Dutch entrepreneur and software developer with a passion for simplicity, technology, and self-reliance.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+After running my own webhosting company for more than twenty years, I sold it in 2024 and took a sabbatical to slow down and explore what truly interests me: from smart energy systems and software architecture to projects around digital independence and off-grid living.
+
+I enjoy building practical things that simply work — whether it’s a home battery setup, a clean software design, or an idea that makes everyday life a bit easier.
+
+This site is my personal space to share occasional thoughts, projects, and ideas that I find worth exploring.
