@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Paul Hermans"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Internet entrepreneur and former owner of FOXXL Hosting, with a passion for technology and software."
+  bio    : "Internet entrepreneur with a passion for technology and software."
   links:
     - label: "DNSSEC Manager"
       icon: "fas fa-fw fa-link"
