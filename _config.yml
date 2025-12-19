@@ -59,7 +59,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Internet entrepreneur and former owner of FOXXL Hosting, with a passion for technology and software."
   links:
-    - label: "DNSSEC Manager Open-source project"
+    - label: "DNSSEC Manager"
       icon: "fas fa-fw fa-link"
       url: "https://dnssecmanager.net"
     - label: "GitHub"
@@ -68,7 +68,7 @@ author:
 
 footer:
   links:
-    - label: "DNSSEC Manager Open-source project"
+    - label: "DNSSEC Manager"
       icon: "fas fa-fw fa-link"
       url: "https://dnssecmanager.net"
     - label: "GitHub"
